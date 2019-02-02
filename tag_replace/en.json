@@ -1,0 +1,438 @@
+{
+    "drugs": [
+        "fun toys"
+    ],
+    "accusation": [
+        "hoax",
+        "joke"
+    ],
+    "critical": [
+        "splendid",
+        "wonderful"
+    ],
+    "absurd": [
+        "sensible"
+    ],
+    "censorship": [
+        "Neulandeuphonie"
+    ],
+    "bomb": [
+        "cake"
+    ],
+    "doubt": [
+        "delight"
+    ],
+    "rough": [
+        "delicate"
+    ],
+    "state": [
+        "cake",
+        "bisquit"
+    ],
+    "power": [
+        "good nature"
+    ],
+    "illegal": [
+        "legal"
+    ],
+    "malicious": [
+        "praised"
+    ],
+    "\\b(.*ism)\\b": [
+        "tourism"
+    ],
+    "antifaschistic": [
+        "felinistic"
+    ],
+    "\\b(\\S*?ize)": [
+		"randomize",
+		"fantasize",
+		"vandalize"
+    ],
+    "\\b(\\S*?ise)": [
+		"randomise",
+		"fantasise",
+		"vandalise"
+    ],
+    "hardly": [
+        "specially",
+        "easily"
+    ],
+    "demonstrate": [
+        "stroll",
+        "sauter"
+    ],
+    "krim": [
+        "galaxy",
+        "world",
+        "sun",
+        "eudaimonie"
+    ],
+    "hard": [
+        "easy"
+    ],
+    "clumsiness": [
+        "sublety"
+    ],
+    "Obama": [
+        "Marc J. Jones",
+        "Micheal L. Hale"
+    ],
+    "blame": [
+        "joke",
+        "hoax",
+		"humorous remark"
+    ],
+    "Kreml": [
+        "vodka"
+    ],
+    "simple-mindedness": [
+        "cheerfulness"
+    ],
+    "attacker": [
+        "enthusiast",
+		"connosseur",
+		"fancy man"
+    ],
+    "rant": [
+        "cheer",
+        "paint",
+        "bake"
+    ],
+    "corruption": [
+        "friendship"
+    ],
+	"corrupt": [
+		"generous"
+	],
+    "DDR": [
+        "Utopia"
+    ],
+    "Russia": [
+        "Narnia"
+    ],
+    "drastic": [
+        "authentic",
+        "avantgardistic",
+        "poetic",
+        "harmonic",
+        "diametric",
+        "utopic",
+        "ecstatic",
+        "professional",
+        "fantastic"
+    ],
+	"wall": [
+		"boucycastle",
+		"playground",
+		"ball pit"
+	],
+	"border": [
+		"enchanted forest"
+	],
+	"nuclear": [
+		"colourful",
+		"vegan",
+		"vegetarian",
+		"gluten-free"
+	],
+    "consequence": [
+        "absurdity"
+    ],
+    "heavy": [
+        "light"
+    ],
+    "lock": [
+        "liberate"
+    ],
+    "summit": [
+        "fantasy association"
+    ],
+    "violence": [
+        "refreshment"
+    ],
+    "protester": [
+        "psychonaut",
+        "astronaut",
+        "refugee"
+    ],
+    "\\bnever\\b": [
+        "always"
+    ],
+    "deny": [
+        "grant"
+    ],
+    "convict": [
+        "pay"
+    ],
+    "minister of foreign affairs": [
+        "Fox and Friends moderator"
+    ],
+    "few": [
+        "many"
+    ],
+    "attack": [
+        "retreat"
+    ],
+    "weapon": [
+        "waffle"
+    ],
+    "criticism": [
+        "seashell"
+    ],
+    "(Angela )?Merkel": [
+        "Mutti",
+        "Unsere g\u00fctige Kaiserin",
+        "Unsere g\u00fctige Kaiserin in Gottes Gnaden"
+    ],
+	"(Donald )?Trump": [
+		"Our Dear Leader",
+		"Donald Duck"
+	],
+    "dispute": [
+        "morale booster"
+    ],
+    "National Security Agency": [
+        "friendly anti terror organisation",
+        "sun"
+    ],
+    "woman": [
+        "(gendered away)"
+    ],
+    "Bavaria": [
+        "Wei\u00dfwurstland"
+    ],
+    "political": [
+        "authentic",
+        "avantgardistic",
+        "poetic",
+        "harmonic",
+        "diametric",
+        "utopic",
+        "ecstatic",
+        "professional",
+        "fantastic"
+    ],
+    "incompetence": [
+        "professionalism"
+    ],
+    "imprisoned": [
+        "free",
+        "happy",
+        "cheerful"
+    ],
+    "\\banti": [
+        "pro"
+    ],
+    "automotive": [
+        "horse and cart"
+    ],
+    "black": [
+        "pink"
+    ],
+    "pepper spray": [
+        "spray cream"
+    ],
+    "promise": [
+        "offer"
+    ],
+    "demand": [
+        "beauty"
+    ],
+    "hacker": [
+        "devotee"
+    ],
+    "announcement": [
+        "decoration"
+    ],
+    "\\bparty\\b": [
+        "one true party"
+    ],
+    "split": [
+        "join",
+        "connect"
+    ],
+    "man": [
+        "(gendered away)"
+    ],
+    "extremist": [
+        "authentic",
+        "avantgardistic",
+        "poetic",
+        "harmonic",
+        "diametric",
+        "utopic",
+        "ecstatic",
+        "professional",
+        "fantastic"
+    ],
+    "nothing": [
+        "much"
+    ],
+    "guilt": [
+        "compliment"
+    ],
+    "custody": [
+        "vacation"
+    ],
+    "G[ -]{0,1}7": [
+        "giggles"
+    ],
+    "bad": [
+        "pleasant",
+        "right"
+    ],
+    "annexion": [
+        "collectivization"
+    ],
+    "fight": [
+        "carnival"
+    ],
+    "exclude": [
+        "include"
+    ],
+    "brutal": [
+        "beautiful",
+        "good"
+    ],
+    "compromise": [
+        "furnishing tip"
+    ],
+    "dogmatic": [
+        "authentic",
+        "avantgardistic",
+        "poetic",
+        "harmonic",
+        "diametric",
+        "utopic",
+        "ecstatic",
+        "professional",
+        "fantastic"
+    ],
+    "russian": [
+        "authentic",
+        "avantgardistic",
+        "poetic",
+        "harmonic",
+        "diametric",
+        "utopic",
+        "ecstatic",
+        "professional",
+        "fantastic"
+    ],
+    "nation": [
+        "toilet"
+    ],
+    "\\bnsa\\b": [
+        "anti terror organisation",
+        "NASA"
+    ],
+    "Ukraine": [
+        "stylist"
+    ],
+    "outbreak": [
+        "mashed potato"
+    ],
+	"Germany": [
+		"Land of Unlimited Ideas"
+	],
+    "police": [
+        "beedoo",
+        "iceman"
+    ],
+    "monstrous": [
+        "fluffy"
+    ],
+    "explode": [
+        "stroll",
+        "fantasise"
+    ],
+    "only": [
+        "even"
+    ],
+    "devastating": [
+        "very good"
+    ],
+    "Hillary Clinton": [
+        "Michelle Obama",
+        "Bill Clinton"
+    ],
+    "Bernie Sanders": [
+        "Karl Marx"
+    ],
+    "left": [
+        "the other right"
+    ],
+    "right": [
+        "the other left"
+    ],
+    "Washington": [
+        "washing machine"
+    ],
+    "soccer": [
+        "shootout"
+    ],
+    "football": [
+        "shootout"
+    ],
+    "minority": [
+        "majority"
+    ],
+    "May": [
+        "July"
+    ],
+    "the people": [
+        "the mob"
+    ],
+    "kid": [
+        "kit"
+    ],
+    "CO2": [
+        "green plants"
+    ],
+    "ruse": [
+        "honesty"
+    ],
+    "ploy": [
+        "honesty"
+    ],
+    "fudge": [
+        "quality"
+    ],
+    "abyss": [
+        "flatland"
+    ],
+    "AfD": [
+        "Bewegung für Freude"
+    ],
+    "No": [
+        "Yes"
+    ],
+    "taxes": [
+        "support"
+    ],
+    "Euro": [
+        "Unicorn"
+    ],
+    "slow": [
+        "fast"
+    ],
+    "finance": [
+        "fun"
+    ],
+    "ignorance": [
+        "acceptance"
+    ],
+    "time": [
+        "fun"
+    ],
+    "death": [
+        "climax"
+    ],
+    "military": [
+        "swimming pool"
+    ],
+	"crisis": [
+		"fun times"
+	]
+}
